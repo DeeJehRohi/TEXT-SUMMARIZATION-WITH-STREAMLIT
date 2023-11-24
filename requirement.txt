@@ -1,3 +1,6 @@
+
+## INSTALL THE FOLLOWING ON YOUR MACHINE##
+Python
 langchain
 sentence_transformers
 torch
@@ -9,3 +12,9 @@ pypdf
 tiktoken
 streamlit
 
+## download the language model, complete folder from any source available##
+we used Lamini-Flan-T5-248M
+
+##create a venv enviroment#
+
+goodluck!
